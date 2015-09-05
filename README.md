@@ -23,3 +23,8 @@ func handler(ctx server.MethodContext) {
   ctx.SendUpdated()
 }
 ```
+
+**todo**
+
+1. tests
+2. sockJs support
